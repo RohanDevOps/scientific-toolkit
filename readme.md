@@ -1,4 +1,4 @@
-```markdown
+
 # Scientific Toolkit Desktop Application
 
 A powerful offline scientific toolkit for students and professionals, built with **React**, **Electron**, and **TypeScript**.
@@ -17,7 +17,7 @@ A powerful offline scientific toolkit for students and professionals, built with
    ```bash
    git clone https://github.com/RohanDevOps/scientific-toolkit.git
    cd scientific-toolkit
-   ```
+   
 
 2. Install dependencies:
    ```bash
@@ -81,4 +81,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Author
 
 Developed by **Rohan Naagar**.
-```
