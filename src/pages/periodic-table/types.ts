@@ -1,0 +1,21 @@
+export type Element = {
+    atomicNumber: number;
+    symbol: string;
+    name: string;
+    atomicMass: number;
+    category: string;
+    group: number;
+    period: number;
+    block: string;
+    electronConfiguration: string;
+    shells: number[];
+    neutrons: number;
+    electronegativity?: number;
+    density?: number;
+    meltingPoint?: number;
+    boilingPoint?: number;
+    discoveredBy?: string;
+    discoveryYear?: number;
+    description: string;
+    isotopes: { massNumber: number; abundance: number }[];
+};
