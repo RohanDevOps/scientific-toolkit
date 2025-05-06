@@ -1,0 +1,7 @@
+appId: com.fopsinc.scientifictoolkit
+productName: Scientific Toolkit
+directories:
+  output: release
+win:
+  target: nsis
+  icon: public/icon.ico

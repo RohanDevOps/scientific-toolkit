@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="wireless-charging">
+  <g>
+    <circle cx="32" cy="32" r="23" fill="#ffac00"></circle>
+    <circle cx="32" cy="32" r="21" fill="#f3f3f3"></circle>
+    <rect width="32" height="54" x="16" y="5" fill="#50d9d7" rx="6"></rect>
+    <path fill="#f3f3f3" d="M46 11v42a3 3 0 0 1-3 3H21a3 3 0 0 1-3-3V11a4 4 0 0 1 4-4h3c.45.91.83 2 2.24 2h9.52c1.38 0 1.77-1.06 2.24-2h3a4 4 0 0 1 4 4Z"></path>
+    <path fill="#50d9d7" d="M58.12 35.12a1 1 0 0 1-.71-1.71 2 2 0 0 0 0-2.82 1 1 0 0 1 1.42-1.42c2.31 2.31.68 5.95-.71 5.95Z"></path>
+    <path fill="#00bebd" d="M60.24 36.24a6 6 0 0 0 0-8.48 1 1 0 0 1 1.42-1.42 8 8 0 0 1 0 11.32 1 1 0 0 1-1.42-1.42Z"></path>
+    <path fill="#50d9d7" d="M5.88 35.12a1 1 0 0 0 .71-1.71 2 2 0 0 1 0-2.82 1 1 0 0 0-1.42-1.42c-2.31 2.31-.68 5.95.71 5.95Z"></path>
+    <path fill="#00bebd" d="M3.76 36.24a6 6 0 0 1 0-8.48 1 1 0 0 0-1.42-1.42 8 8 0 0 0 0 11.32 1 1 0 0 0 1.42-1.42Z"></path>
+    <path fill="#d9d9d9" d="M41 54H23a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2Z"></path>
+    <path fill="#ffac00" d="M28 21h8l-2 8h4l-9 14 1-11h-4l2-11z"></path>
+  </g>
+</svg>
