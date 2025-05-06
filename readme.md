@@ -1,4 +1,4 @@
-```markdown
+
 # Scientific Toolkit Desktop Application
 
 A powerful offline scientific toolkit for students and professionals, built with **React**, **Electron**, and **TypeScript**.
@@ -49,7 +49,7 @@ A powerful offline scientific toolkit for students and professionals, built with
 - Open the production build:
   ```bash
   npm start
-  ```
+  
 
 ## Technologies Used
 
@@ -81,4 +81,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Author
 
 Developed by **Rohan Naagar**.
-```
+
